@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
-TOKEN = "8313644355:AAFG9-mz68cZsYvyXALYXLw23PsUIL7uFPc"
+TOKEN = "8819887624:AAGXVwSYiFqZx3cbG7j1waDyZbhxrBN3FOs"
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
